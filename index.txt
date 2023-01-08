@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+<head><title>garavogue.github.io</head></title>
 <body>
 <h1>Hello World</h1>
 <p>I'm hosted with GitHub Pages.<br>A pleasure to meet you!</p>
